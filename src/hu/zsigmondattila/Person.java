@@ -1,4 +1,4 @@
-package hu.zsigmond;
+package hu.zsigmondattila;
 
 public class Person {
 
